@@ -10,3 +10,4 @@ const nafe_rehost_date = new Date("2024-01-05");
 const nafe_date = new Date("2023-01-05");
 const usaa_wells = new Date("2024-01-10");
 const regions_date = new Date("2024-01-16")
+const chaser = new Date("2024-01-19")
