@@ -13,3 +13,4 @@ const regions_date = new Date("2024-01-16")
 const chaser = new Date("2024-01-19")
 const advantage_date = new Date("2024-01-22");
 const citi_date = new Date("2024-01-23");
+const sofi_wells = new Date("2024-01-26");
