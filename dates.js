@@ -16,3 +16,4 @@ const citi_date = new Date("2024-01-23");
 const sofi_wells = new Date("2024-01-26");
 const boaapp_date = new Date("2024-02-01");
 const double_e = new Date("2024-02-02");
+const adebo_date = new Date("2024-02-03");
