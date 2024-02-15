@@ -6,6 +6,7 @@ const fluvius = new Date("2023-11-22");
 const fluvius_rec = new Date("2023-12-14");
 const santana = new Date("2023-12-15");
 const aasu_login = new Date("2024-01-28");
+const aasu2_login = new Date("2024-02-15");
 const nafe_rehost_date = new Date("2024-01-05");
 const nafe_date = new Date("2023-01-05");
 const usaa_wells = new Date("2024-01-10");
